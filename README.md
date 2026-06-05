@@ -3,7 +3,7 @@ Tournament: KRITI Intra-IIT Guwahati Inter-Hostel Championship (Low Prep Financi
 Team Assignment: Strategic Analyst and Financial Modeler
 
 Project Overview
-This project was developed for the Financial Consulting challenge of the KRITI Inter-Hostel championship at IIT Guwahati. The objective of the study was to diagnose, analyze, and value two contrasting pillars of the Indian technology ecosystem: the stable, mature Legacy IT Services sector (including TCS, Infosys, Wipro, and HCL Tech) and the hyper-growth, disruptive New Age Tech-driven platform economy (including Zomato/Eternal, Swiggy, Nykaa, and Meesho). By analyzing operational metrics, accounting structures, regulatory changes, and digital trends, the team created an integrated financial valuation engine and structural sector report.
+This project was developed for the Financial Consulting challenge of the KRITI Inter-Hostel championship at IIT Guwahati. The objective of the study was to diagnose, analyze , and value two contrasting pillars of the Indian technology ecosystem: the stable, mature Legacy IT Services sector (including TCS, Infosys, Wipro, and HCL Tech) and the hyper-growth, disruptive New Age Tech-driven platform economy (including Zomato/Eternal, Swiggy, Nykaa, and Meesho). By analyzing operational metrics, accounting structures, regulatory changes, and digital trends, the team created an integrated financial valuation engine and structural sector report.
 
 Key Deliverables Delivered
 
